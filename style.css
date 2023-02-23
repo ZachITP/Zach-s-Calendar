@@ -1,6 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-family: 'Gajraj One', cursive;
 }
 
 textarea {
@@ -12,11 +11,21 @@ textarea {
   padding: 10px;
 }
 
+
+.zachclass {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid #88898C;
+}
+
+
 .description {
   white-space: pre-wrap;
 }
 
-.time-block {
+.time-lord {
   border-radius: 15px;
 }
 
@@ -31,17 +40,17 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #a6b8c7;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #003B6F;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #6f8ea9;
   color: white;
 }
 
@@ -49,11 +58,11 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #00203c;
   color: white;
 }
 
 .saveBtn i:hover {
   font-size: 20px;
-  transition: all 0.3s ease-in-out;
+  transition: all 1.0s ease-in-out;
 }
