@@ -1,4 +1,4 @@
-//Lets play a game Central Grader: can you spot the Doctor Who references
+//Lets play a game Central Grader: can you spot all 'the Doctor Who' references
 
 var saveBtn = $(".saveBtn");
 
