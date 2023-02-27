@@ -18,6 +18,7 @@ textarea {
   color: black;
   border-radius: 0;
   border-bottom: 10px solid #88898C;
+  padding-top: 50px;
 }
 
 
@@ -45,7 +46,6 @@ textarea {
 }
 
 
-/* official Tardis Hex code */
 .present {
   background-color: #003B6F;
   color: white;

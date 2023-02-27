@@ -7,7 +7,7 @@ var saveBtn = $(".saveBtn");
 $("#currentDay").text(moment().format('dddd MMMM Do YYYY'));
 
 function TardisColor() {
-  var hour = moment().hours();
+  var hour = moment().hours(); 
 
   $(".time-lord").each(function() {
       var currHour = parseInt($(this).attr("id"));
@@ -40,9 +40,6 @@ function TheDoctor() {
   $(".hour").each(function() {
       var currHour = $(this).text();
       var currPlan = localStorage.getItem(currHour);
-
-     
-
       if(currPlan !== null) {
           $(this).siblings(".plan").val(currPlan);
       }

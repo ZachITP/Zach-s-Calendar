@@ -7,7 +7,8 @@ in collaboration with UTSA
 #### Purpose
 This application Makes it easy to view every hour of the buisness day and add events to the calendar. All events are saved locally and are there for you when you come back to it.
 <img src="./Assets/Calendar.png" alt="If this images does not display just go home and watch Doctor Who" title="Calendar">
-<img src="./Assets/Casen.png" alt="time block" title="Time block">
+<img src="./Assets/Casen.png" alt="Calendar example" title="Calendar example">
+<img src="./Assets/Grade.png" alt="Calendar Example" title="Calendar example">
 
 ## Usage
 
@@ -20,11 +21,11 @@ This application Makes it easy to view every hour of the buisness day and add ev
 
 HTML, 
 CSS,
-JavaScript
-JQuery
-JQueryAI
-Google Fonts
-FontAwesome.com
+JavaScript,
+JQuery,
+JQueryAI,
+Google Fonts,
+FontAwesome.com,
 cloudflare.com
 
 
@@ -36,9 +37,6 @@ starter code pulled from: https://utsa.bootcampcontent.com/utsa-bootcamp/UTSA-VI
 ## website
 Check it out for yourself! https://zachitp.github.io/Zach-s-Calendar/
 
-
-## Support
- 
 
 ## License
 MIT Copyright (c) Zach Hanson
